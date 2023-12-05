@@ -1,6 +1,6 @@
 
-## 1: Installing CrossCompute and Jupyterlab
-In this first part, we'll walk you through setting up CrossCompute and JupyterLab, essential tools for your Python projects. 
+## Installing CrossCompute Analtyics Extension and Jupyterlab
+In this article, we'll lead you through installing CrossCompute Analytics Extension and JupyterLab, ideal for creating and managing projects using interactive notebooks, coding, and data handling.
 
 The process begins with creating a virtual environment using Python 3.11. This step is key to keeping your project environment clean and separate from other projects or system settings. Kick things off by typing this command into your command line interface or Terminal application:
 
@@ -33,4 +33,4 @@ After successfully installing CrossCompute Analytics and JupyterLab just run thi
 jupyter lab
 ```
 
-You're now in the JupyterLab interface, all set to dive into your projects with the powerful features of CrossCompute.
+You should now be in the JupyterLab interface, all set to dive into your projects with the powerful features of CrossCompute.
