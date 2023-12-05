@@ -33,4 +33,6 @@ After successfully installing CrossCompute Analytics and JupyterLab just run thi
 jupyter lab
 ```
 
-You should now be in the JupyterLab interface, all set to dive into your projects with the powerful features of CrossCompute.
+You should now be in the JupyterLab interface.  
+
+Now you are all set to dive into your projects with the powerful features of CrossCompute and Jupyterlab. Great work!
