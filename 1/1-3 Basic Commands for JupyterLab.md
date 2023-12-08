@@ -1,5 +1,5 @@
 # Basic Commands in JupyterLab
-JupyterLab is a versatile tool for data analysis, scientific research, and software development. Its user-friendly interface, combined with a robust set of features, makes it a go-to choice for professionals and enthusiasts alike. In this article, let's walk through some of the basic commands that will help you get started with JupyterLab.
+JupyterLab is a versatile tool for data analysis, scientific research, and software development. With its user-friendly interface, combined with a robust set of features, JupyterLab was the ideal tool to pair with the CrossCompute Framework making both a go-to choice for professionals and enthusiasts alike. In this article, let's walk through some of the basic commands that will help you get started with JupyterLab.
 
 ## Starting Up JupyterLab
 To launch JupyterLab, you simply need to run the following command in your terminal (assuming you have JupyterLab installed):
@@ -56,4 +56,4 @@ To shut down a kernel when you're done:
 - Go to the "Kernel" menu.
 - Select "Shut Down Kernel".
 
-JupyterLab's intuitive interface makes it accessible, and getting comfortable with the basic commands we covered together in this article will greatly enhance your productivity and efficiency. As you become more adept with these commands, you'll find that JupyterLab can become a flexible and powerful environment for all your computing needs.
+JupyterLab's intuitive interface makes it accessible, and getting comfortable with the basic commands we covered together in this article will greatly enhance your productivity and efficiency. As you become more adept with these commands, you'll find that JupyterLab can become a flexible and powerful environment for not just creating automations with CrossCompute but all your computing needs.
