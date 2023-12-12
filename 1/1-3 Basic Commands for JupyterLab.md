@@ -56,4 +56,6 @@ To shut down a kernel when you're done:
 - Go to the "Kernel" menu.
 - Select "Shut Down Kernel".
 
-JupyterLab's intuitive interface makes it accessible, and getting comfortable with the basic commands we covered together in this article will greatly enhance your productivity and efficiency. As you become more adept with these commands, you'll find that JupyterLab can become a flexible and powerful environment for not just creating automations with CrossCompute but all your computing needs.
+JupyterLab's intuitive interface makes it accessible, and getting comfortable with the basic commands we covered together in this article will greatly enhance your productivity and efficiency. As you become more adept with these commands, you'll find that JupyterLab can become a flexible and powerful environment for not just creating tools with CrossCompute but all your computing needs.
+
+For more detailed information, tips, and shortcuts, be sure to check out the [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/). Here, you'll find comprehensive guides and resources to help you make the most of JupyterLab's capabilities, whether you're a beginner or an experienced user.
