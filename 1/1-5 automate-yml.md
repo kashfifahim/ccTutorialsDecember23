@@ -21,7 +21,11 @@ This section is similar to the input section but defines the output variables of
 - templates: Specifies markdown templates for output data.
 
 ### Batches Section
-Defines batch processing folders.
+This section is tailored to define how batches of input data are processed.  It enables CrossCompute to handle multiple sets of input values efficiently, showcasing its ease of use in batch processing.  There are three key use cases that the Batches section addresses:
+- Defining a Batch folder: This involves specifying a folder that contains a set of values for the input variables. It's like telling the system, "Here's where you'll find the batch of data to process." For example, if we defined our batches section with a folder ```- folder: batches/a``` attribute and value we're specifying to our automation that the subfolder ```a``` contains the necessary input data.
+- Assorted Variable Values through a File: Here, the automation is configured to accept a file (like a CSV) containing various values for the variables. This approach is versatile, allowing for a wide range of input combinations.
+- Using a Reference Folder for Default Values: In this use case we provide a folder with default values for the variables. It's particularly useful when you want to have a standard set of values but need the flexibility to modify some of them for specific batches.
+It's important to ensure that the specified folder and subfolder exist in the project directory and contain the relevant data.
 
 ### Display Section
 The display section specifies CSS styles and page configurations for the automation interface.
