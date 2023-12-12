@@ -10,6 +10,7 @@ command in your terminal you will see your web-browser open a new window that lo
 ![Jupyter Lab interface](/1/images/JupyterLab%20Interface.jpg)
 
 ## The CrossCompute Button 
+![Jupyter Lab interface](/1/images/CrossCompute%20Button.png)
 All the way to the right side of your screen, you will see a thin vertical strip with three icons stacked on top of each other. The last one with the colorful CrossCompute logo is the CrossCompute Button in JupyterLab. This button, when clicked, opens the CrossCompute Panel.
 
 ## CrossCompute Panel
